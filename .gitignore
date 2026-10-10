@@ -1,0 +1,6 @@
+
+# React Native / Expo dependencies and generated files
+**/node_modules/
+**/.expo/
+**/dist/
+**/web-build/
